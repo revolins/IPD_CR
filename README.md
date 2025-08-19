@@ -1,7 +1,7 @@
 # Cooperative Resilience within the Iterated Prisoner’s Dilemma
 
 ## Researchers:
-Anonymous Authors
+Jay Revolinsky, Karen Suzue, Alec Said, Charles Ofria
 
 # We assume that the user has anaconda/miniconda installed
 https://docs.anaconda.com/free/miniconda/miniconda-install/
